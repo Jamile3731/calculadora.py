@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# Função para atualizar a expressão
+
 def clicar(botao):
     atual = entrada.get()
     entrada.delete(0, tk.END)
